@@ -1,7 +1,7 @@
 # Hi, I'm Davide Zago
 
- - 💻 **MSc student @ UniTo**, Department of Computer Science
- - 🧠 **Specializing in AI**
+ - 💻 **Research Fellow @ UniTo**, Department of Computer Science
+ - 🧠 **Deep Reinforcement Learning, Deep Learning, Combinatorial Optimization**
  - 🔎 **Interested in**: Deep Learning, Machine Learning, Optimization, NP-completeness theory, Logic, Functional Programming, Formal methods, Complex networks
 
 <table>
