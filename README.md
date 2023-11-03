@@ -1,6 +1,6 @@
 # Hi, I'm Davide Zago
 
- - 💻 **Research Fellow @ UniTo**, Department of Computer Science
+ - 💻 **PhD Candidate in Computer Science @ University of Turin**
  - 🧠 **Deep Reinforcement Learning, Deep Learning, Combinatorial Optimization**
  - 🔎 **Interested in**: Deep Learning, Machine Learning, Optimization, NP-completeness theory, Logic, Functional Programming, Formal methods, Complex networks
 
